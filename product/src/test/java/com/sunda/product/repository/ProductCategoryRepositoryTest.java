@@ -11,8 +11,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 import java.util.Arrays;
 import java.util.List;
 
-import static org.junit.Assert.*;
-
 /**
  * Created by 老蹄子 on 2018/10/26 下午4:23
  */
